@@ -1,0 +1,82 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    background: #3eaa37;
+    box-shadow: -8px 1px 12px 8px #0005;
+}
+
+#header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #3eaa37;
+    padding: 20px 40px 20px 12px;
+    position: relative;
+}
+
+.header-logo {
+    max-width: 145px;
+    margin-right: 20px;
+    height: auto;
+    display: block;
+}
+
+.nombre {
+    color: #fff;
+    font-size: 3rem;
+    font-family: 'Roboto', Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    flex: 1;
+    text-align: left;
+    line-height: 1.2;
+}
+
+#menu-toggle {
+    background: #222;
+    color: #fff;
+    border: none;
+    font-size: 3.5rem;
+    border-radius: 8px;
+    padding: 6px 16px;
+    cursor: pointer;
+    transition: background 0.2s;
+    margin-left: 20px;
+    flex-shrink: 0;
+    position: static;
+}
+
+#menu-toggle:hover {
+    transform: scale(1.16);
+}
+
+#menu-toggle.hide {
+    display: none;
+}
+
+header,
+#header,
+.header-logo,
+.nombre,
+#menu-toggle {
+    transition: all 0.25s cubic-bezier(0.4,0,0.2,1);
+}
+
+.header-small #header {
+    padding: 8px 16px 8px 6px;
+}
+
+.header-small .header-logo {
+    max-width: 60px;
+}
+
+.header-small .nombre {
+    font-size: 1.4rem;
+}
+
+.header-small #menu-toggle {
+    font-size: 2rem;
+    padding: 3px 8px;
+}

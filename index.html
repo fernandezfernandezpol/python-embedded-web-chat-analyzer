@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Analizador de chats en Pyodide</title>
+    <script src="https://cdn.jsdelivr.net/pyodide/v0.25.1/full/pyodide.js"></script>
+    <link rel="icon" type="image/x-icon" href="./images/logo.ico">
+    <link rel="icon" type="image/png" href="./images/logo.png">
+    <link rel="stylesheet" href="./styles/main.css">
+</head>
+<body>
+    <header>
+        <div id="header">
+            <img src="./images/logo.png" alt="Logo" class="header-logo">
+            <span class="nombre">Analizador de chats</span>
+            <button id="menu-toggle" class="hide" aria-label="Menú">&#9776;</button>
+        </div>
+    </header>
+    <main>
+        <div class="page-title">
+            <h1>Sube un chat de WhatsApp en formato .txt y busca una palabra</h1>
+        </div>
+        <div class="file-upload-container">
+            <input type="file" id="txtfile" accept=".txt" hidden>
+            <label for="txtfile" class="file-upload-btn">
+                <span class="file-clip" aria-hidden="true">📎</span>
+                <span class="file-upload-text" id="file-upload-label">No se ha seleccionado ningún archivo</span>
+            </label>
+        </div>
+        <input type="text" id="palabra" placeholder="Palabra a buscar">
+        <button class="btn" onclick="procesar()">Analizar</button>
+        <div id="output"></div>
+    </main>
+    <footer class="footer">
+        <div class="footer-row">
+            <div class="footer-left">
+                <div>© 2025<br>Pol Fernández Fernández</div>
+            </div>
+            <div class="footer-center">
+                <img src="./images/logo.png" alt="Logo" class="footer-icon">
+            </div>
+            <div class="footer-right">
+                <a class="scroll-top-link" href="#">Volver arriba</a>
+            </div>
+        </div>
+    </footer>
+    <script type="module" src="./scripts/main.js"></script>
+</body>
+</html>

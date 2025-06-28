@@ -1,0 +1,28 @@
+button, .btn, input[type="button"], input[type="submit"] {
+    background: #3eaa37;
+    color: #fff;
+    font-family: 'Roboto', Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.25rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 0.6em;
+    padding: 0.75em 2.5em;
+    cursor: pointer;
+    box-shadow: 0 2px 8px -2px #0003;
+    transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+    margin-top: 1.5em;
+    letter-spacing: 1px;
+    outline: none;
+    display: inline-block;
+}
+
+button:hover, .btn:hover, input[type="button"]:hover, input[type="submit"]:hover {
+    background: #3eaa37;
+    transform: scale(1.05);
+}
+
+button:active, .btn:active, input[type="button"]:active, input[type="submit"]:active {
+    background: #3eaa37;
+    color: #eee;
+    transform: scale(0.97);
+}

@@ -1,0 +1,24 @@
+#palabra {
+    display: block;
+    margin: 2em auto 1.5em auto;
+    padding: 1em 2em;
+    width: 90%;
+    max-width: 400px;
+    font-size: 1.2rem;
+    font-family: 'Roboto', Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: #222;
+    background: #f8f8f8;
+    border: 2.5px solid #3eaa37;
+    border-radius: 0.7em;
+    box-shadow: 0 2px 8px -2px #0002;
+    outline: none;
+    transition: border-color 0.2s, box-shadow 0.2s, background 0.2s;
+    text-align: center;
+}
+
+#palabra:focus {
+    border-color: #288021;
+    background: #fff;
+    box-shadow: 0 4px 16px -4px #3eaa3733;
+}

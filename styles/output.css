@@ -1,0 +1,92 @@
+#output {
+    display: block;
+    width: 100%;
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 0;
+    min-height: 0;
+    text-align: center;
+    transition: min-height 0.2s, padding 0.2s;
+}
+
+#output.imagenes-cargadas {
+    min-height: 380px;
+    padding: 1.5em 0;
+    margin: 2em auto;
+}
+
+#output .imagen-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+    margin-bottom: 1em;
+}
+
+#output .btn-tipo {
+    font-family: 'Roboto', Verdana, Geneva, Tahoma, sans-serif;
+    background: #3eaa37;
+    color: #fff;
+    font-size: 1.1em;
+    font-weight: bold;
+    border: none;
+    border-radius: 0.55em;
+    padding: 0.5em 1.5em;
+    margin: 0 0.25em;
+    cursor: pointer;
+    box-shadow: 0 2px 8px -2px #0003;
+    transition: background 0.2s, transform 0.15s, box-shadow 0.2s, font-size 0.15s;
+}
+
+#output .btn-tipo.tipo-activo {
+    background: #236b3b;
+    font-size: 1.35em;
+    transform: scale(1.13);
+    box-shadow: 0 4px 16px -4px #0006;
+    z-index: 2;
+}
+
+#output .btn-tipo:not(.tipo-activo):hover {
+    background: #288021;
+    transform: scale(1.08);
+}
+
+#output .imagen-controls button {
+    font-family: 'Roboto', Verdana, Geneva, Tahoma, sans-serif;
+    background: #3eaa37;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 6em;
+    padding: 0.4em 1.5em;
+    cursor: pointer;
+    box-shadow: 0 2px 8px -2px #0003;
+    transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+}
+
+#output .imagen-controls button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+#output .imagen-controls button:not(.btn-tipo):hover:not(:disabled) {
+    background: #288021;
+    transform: scale(1.08);
+}
+
+#output .imagen-grande {
+    width: min(96vw, 750px);
+    max-height: 65vh;
+    display: block;
+    margin: auto;
+    box-shadow: 0 3px 24px -5px #0005;
+    border-radius: 1.1em;
+}
+
+#output .imagen-pie {
+    text-align: center;
+    margin-top: 1em;
+    font-family: 'Roboto', Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
