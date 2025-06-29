@@ -1,0 +1,906 @@
+[1/1/25, 10:56:15] Bob: Thanks!
+[1/1/25, 11:21:56] Charlie: I'll check it out then.
+[1/1/25, 12:34:42] Charlie: I went to Japan. It was amazing!
+[2/1/25, 11:50:23] Bob: Did you finish the project?
+[2/1/25, 12:33:12] Diana: Let me know if you need help.
+[2/1/25, 13:43:47] Alice: I'm doing great! Just got back from a trip.
+[3/1/25, 10:08:14] Alice: Morning everyone!
+[3/1/25, 11:04:09] Diana: Did you finish the project?
+[4/1/25, 09:20:16] Alice: Staying home, just taking it easy.
+[4/1/25, 09:23:52] Bob: Probably just relaxing. Maybe some hiking.
+[4/1/25, 10:20:40] Diana: Absolutely, binge-worthy!
+[4/1/25, 10:54:56] Alice: Let's catch up later.
+[5/1/25, 09:40:44] Bob: Let's catch up later.
+[5/1/25, 10:10:49] Bob: Bye!
+[5/1/25, 10:16:06] Alice: Hey, how are you?
+[5/1/25, 11:17:11] Charlie: Will do, thanks!
+[6/1/25, 08:41:23] Alice: Let me know if you need help.
+[6/1/25, 08:51:42] Alice: Morning everyone!
+[6/1/25, 10:15:04] Bob: Bye!
+[6/1/25, 11:19:30] Bob: Not yet, is it good?
+[6/1/25, 12:43:23] Alice: Let's catch up later.
+[6/1/25, 13:40:37] Bob: Thanks!
+[6/1/25, 15:03:55] Bob: Yeah, you definitely should.
+[6/1/25, 15:38:34] Charlie: Staying home, just taking it easy.
+[7/1/25, 11:36:23] Diana: Not yet, is it good?
+[7/1/25, 11:41:22] Charlie: Not yet, is it good?
+[7/1/25, 12:02:34] Bob: Hey, how are you?
+[8/1/25, 11:17:03] Alice: Yeah, you definitely should.
+[8/1/25, 12:33:01] Charlie: Don't forget the meeting tomorrow.
+[8/1/25, 12:55:42] Bob: Going to visit family. You?
+[8/1/25, 13:33:41] Diana: Did you finish the project?
+[9/1/25, 10:41:20] Bob: Don't forget the meeting tomorrow.
+[9/1/25, 10:47:46] Diana: Sure, see you soon.
+[10/1/25, 10:31:08] Charlie: I'm doing great! Just got back from a trip.
+[10/1/25, 11:02:07] Diana: Hey, how are you?
+[10/1/25, 11:17:35] Diana: Don't forget the meeting tomorrow.
+[10/1/25, 11:40:17] Charlie: Morning everyone!
+[10/1/25, 12:41:14] Bob: Cool! Enjoy it.
+[10/1/25, 12:45:01] Charlie: Staying home, just taking it easy.
+[11/1/25, 12:09:43] Alice: I'm doing great! Just got back from a trip.
+[11/1/25, 13:08:52] Diana: Hey, how are you?
+[11/1/25, 13:15:25] Bob: Staying home, just taking it easy.
+[12/1/25, 11:13:21] Alice: Absolutely, binge-worthy!
+[12/1/25, 12:22:36] Alice: Staying home, just taking it easy.
+[12/1/25, 13:52:07] Alice: Hey, how are you?
+[13/1/25, 09:30:07] Bob: I went to Japan. It was amazing!
+[13/1/25, 10:12:39] Alice: Morning everyone!
+[14/1/25, 09:25:31] Diana: Absolutely, binge-worthy!
+[14/1/25, 09:40:42] Diana: Good night!
+[14/1/25, 09:52:10] Charlie: Good night!
+[14/1/25, 11:04:59] Charlie: Sure, see you soon.
+[14/1/25, 11:58:14] Alice: Any plans for the holidays?
+[14/1/25, 12:56:59] Alice: Let's catch up later.
+[15/1/25, 11:30:14] Charlie: I'm doing great! Just got back from a trip.
+[15/1/25, 11:47:51] Alice: What are you up to this weekend?
+[15/1/25, 12:43:05] Diana: Thanks!
+[16/1/25, 09:23:38] Bob: Don't forget the meeting tomorrow.
+[16/1/25, 09:25:17] Charlie: Thanks!
+[17/1/25, 11:10:11] Charlie: Right, thanks for the reminder!
+[17/1/25, 11:15:14] Bob: I'll check it out then.
+[17/1/25, 12:42:49] Alice: Let me know if you need help.
+[17/1/25, 13:14:25] Alice: I'm doing great! Just got back from a trip.
+[17/1/25, 14:15:59] Bob: Good night!
+[17/1/25, 14:34:45] Alice: Bye!
+[18/1/25, 10:32:38] Charlie: Morning everyone!
+[18/1/25, 11:52:22] Charlie: Morning everyone!
+[18/1/25, 12:46:10] Bob: Absolutely, binge-worthy!
+[18/1/25, 13:50:20] Diana: Have you watched the new series on Netflix?
+[18/1/25, 14:57:21] Alice: Let's catch up later.
+[18/1/25, 15:20:35] Alice: Absolutely, binge-worthy!
+[18/1/25, 16:11:50] Bob: I'm doing great! Just got back from a trip.
+[18/1/25, 16:44:16] Alice: Right, thanks for the reminder!
+[19/1/25, 10:30:22] Alice: Sure, see you soon.
+[19/1/25, 11:13:07] Charlie: I'm doing great! Just got back from a trip.
+[19/1/25, 11:17:27] Diana: That sounds awesome. I've always wanted to go there.
+[19/1/25, 11:47:58] Alice: Don't forget the meeting tomorrow.
+[19/1/25, 13:02:22] Diana: Not yet, is it good?
+[20/1/25, 10:21:46] Charlie: Thanks!
+[20/1/25, 11:05:55] Diana: What are you up to this weekend?
+[21/1/25, 11:32:52] Charlie: Nice! Where did you go?
+[21/1/25, 11:34:16] Alice: Let me know if you need help.
+[22/1/25, 10:22:31] Alice: Morning everyone!
+[22/1/25, 10:55:15] Alice: I'm doing great! Just got back from a trip.
+[23/1/25, 09:26:42] Alice: What are you up to this weekend?
+[23/1/25, 10:47:40] Diana: I went to Japan. It was amazing!
+[23/1/25, 11:36:23] Alice: Don't forget the meeting tomorrow.
+[23/1/25, 11:40:36] Diana: Nice! Where did you go?
+[24/1/25, 08:43:14] Diana: Hey, how are you?
+[24/1/25, 09:20:03] Bob: I'm doing great! Just got back from a trip.
+[25/1/25, 12:04:32] Bob: Probably just relaxing. Maybe some hiking.
+[25/1/25, 12:19:28] Bob: Don't forget the meeting tomorrow.
+[25/1/25, 13:29:58] Diana: Absolutely, binge-worthy!
+[25/1/25, 14:43:44] Alice: Yeah, you definitely should.
+[25/1/25, 15:27:20] Charlie: Let me know if you need help.
+[26/1/25, 11:06:44] Charlie: Right, thanks for the reminder!
+[26/1/25, 11:34:08] Diana: Sure, see you soon.
+[26/1/25, 12:22:00] Diana: Hey, how are you?
+[26/1/25, 12:37:19] Charlie: Morning everyone!
+[26/1/25, 13:38:48] Alice: Not yet, is it good?
+[26/1/25, 15:06:05] Diana: Thanks!
+[26/1/25, 15:15:14] Charlie: Don't forget the meeting tomorrow.
+[27/1/25, 10:59:56] Bob: Hey, how are you?
+[27/1/25, 11:06:06] Charlie: I'm doing great! Just got back from a trip.
+[27/1/25, 11:20:06] Diana: Probably just relaxing. Maybe some hiking.
+[28/1/25, 09:29:34] Diana: Right, thanks for the reminder!
+[28/1/25, 09:51:04] Bob: That sounds awesome. I've always wanted to go there.
+[28/1/25, 10:55:34] Bob: Sure, see you soon.
+[28/1/25, 12:13:54] Charlie: Will do, thanks!
+[28/1/25, 13:03:30] Charlie: Cool! Enjoy it.
+[28/1/25, 14:31:47] Alice: Absolutely, binge-worthy!
+[28/1/25, 14:51:06] Alice: Hey, how are you?
+[28/1/25, 15:45:26] Diana: Hey, how are you?
+[29/1/25, 08:34:16] Bob: I'll check it out then.
+[29/1/25, 09:27:30] Diana: I'll check it out then.
+[29/1/25, 10:48:34] Bob: Right, thanks for the reminder!
+[29/1/25, 12:11:27] Bob: I went to Japan. It was amazing!
+[29/1/25, 12:44:15] Charlie: I'm doing great! Just got back from a trip.
+[29/1/25, 13:41:16] Bob: Not yet, working on it tonight.
+[29/1/25, 14:38:00] Bob: Sounds relaxing!
+[29/1/25, 15:06:44] Alice: I'll check it out then.
+[30/1/25, 10:31:49] Bob: Yeah, you definitely should.
+[30/1/25, 10:34:10] Alice: Will do, thanks!
+[30/1/25, 11:34:01] Bob: Nice! Where did you go?
+[30/1/25, 12:58:54] Bob: Probably just relaxing. Maybe some hiking.
+[30/1/25, 14:25:36] Diana: Thanks!
+[30/1/25, 14:57:08] Alice: Did you finish the project?
+[30/1/25, 15:30:29] Charlie: What are you up to this weekend?
+[31/1/25, 09:26:08] Charlie: Sure, see you soon.
+[31/1/25, 10:34:48] Charlie: I went to Japan. It was amazing!
+[31/1/25, 11:01:07] Alice: Cool! Enjoy it.
+[31/1/25, 11:47:02] Diana: That sounds awesome. I've always wanted to go there.
+[31/1/25, 13:02:53] Diana: Staying home, just taking it easy.
+[31/1/25, 14:33:32] Charlie: Probably just relaxing. Maybe some hiking.
+[31/1/25, 15:08:05] Bob: Any plans for the holidays?
+[31/1/25, 15:20:40] Alice: Any plans for the holidays?
+[1/2/25, 09:26:08] Charlie: Have you watched the new series on Netflix?
+[1/2/25, 10:06:10] Diana: I'll check it out then.
+[1/2/25, 11:01:16] Alice: Will do, thanks!
+[1/2/25, 11:45:10] Diana: Let me know if you need help.
+[1/2/25, 12:07:14] Diana: I'll check it out then.
+[1/2/25, 12:35:28] Diana: Did you finish the project?
+[2/2/25, 10:56:35] Charlie: Cool! Enjoy it.
+[2/2/25, 11:47:57] Bob: Not yet, working on it tonight.
+[3/2/25, 10:57:04] Alice: Not yet, working on it tonight.
+[3/2/25, 12:06:43] Bob: Will do, thanks!
+[3/2/25, 13:24:16] Alice: Have you watched the new series on Netflix?
+[3/2/25, 14:16:02] Diana: That sounds awesome. I've always wanted to go there.
+[4/2/25, 10:15:58] Bob: Good night!
+[4/2/25, 10:44:18] Bob: Yeah, you definitely should.
+[4/2/25, 11:22:07] Bob: Staying home, just taking it easy.
+[5/2/25, 11:07:57] Diana: What are you up to this weekend?
+[5/2/25, 11:30:03] Charlie: Have you watched the new series on Netflix?
+[5/2/25, 12:36:18] Alice: Good night!
+[5/2/25, 12:48:36] Alice: Did you finish the project?
+[5/2/25, 14:04:47] Diana: I'll check it out then.
+[6/2/25, 09:10:34] Diana: Right, thanks for the reminder!
+[6/2/25, 10:02:34] Alice: Will do, thanks!
+[6/2/25, 10:57:56] Alice: Any plans for the holidays?
+[6/2/25, 11:05:15] Bob: Let's catch up later.
+[6/2/25, 11:32:57] Alice: Cool! Enjoy it.
+[6/2/25, 12:20:27] Bob: Going to visit family. You?
+[7/2/25, 10:38:09] Bob: I went to Japan. It was amazing!
+[7/2/25, 11:21:29] Diana: Sounds relaxing!
+[7/2/25, 11:55:33] Charlie: Absolutely, binge-worthy!
+[7/2/25, 13:06:41] Bob: Cool! Enjoy it.
+[8/2/25, 09:15:54] Bob: Nice! Where did you go?
+[8/2/25, 10:24:12] Alice: Hey, how are you?
+[8/2/25, 11:31:11] Alice: Good night!
+[9/2/25, 08:59:23] Diana: Will do, thanks!
+[9/2/25, 09:54:24] Diana: Yeah, you definitely should.
+[9/2/25, 11:17:22] Bob: Don't forget the meeting tomorrow.
+[10/2/25, 11:44:24] Charlie: Sounds relaxing!
+[10/2/25, 12:13:40] Bob: Right, thanks for the reminder!
+[10/2/25, 13:19:12] Charlie: Let me know if you need help.
+[11/2/25, 09:04:41] Alice: Not yet, is it good?
+[11/2/25, 10:26:32] Alice: Don't forget the meeting tomorrow.
+[11/2/25, 11:56:05] Alice: Will do, thanks!
+[11/2/25, 13:00:42] Alice: I'll check it out then.
+[11/2/25, 13:20:04] Bob: Absolutely, binge-worthy!
+[12/2/25, 09:34:47] Alice: I'm doing great! Just got back from a trip.
+[12/2/25, 10:38:34] Charlie: Have you watched the new series on Netflix?
+[12/2/25, 11:12:01] Charlie: Have you watched the new series on Netflix?
+[12/2/25, 12:24:46] Bob: Right, thanks for the reminder!
+[12/2/25, 13:15:33] Diana: What are you up to this weekend?
+[12/2/25, 13:27:14] Charlie: Probably just relaxing. Maybe some hiking.
+[12/2/25, 13:49:53] Diana: Let's catch up later.
+[12/2/25, 14:26:50] Bob: Have you watched the new series on Netflix?
+[13/2/25, 12:03:17] Alice: Let's catch up later.
+[13/2/25, 12:20:02] Bob: Did you finish the project?
+[13/2/25, 12:31:38] Alice: Don't forget the meeting tomorrow.
+[13/2/25, 12:48:13] Bob: Sounds relaxing!
+[13/2/25, 13:07:26] Alice: Don't forget the meeting tomorrow.
+[14/2/25, 10:16:30] Alice: I'll check it out then.
+[14/2/25, 11:15:35] Alice: Any plans for the holidays?
+[14/2/25, 12:08:49] Bob: Yeah, you definitely should.
+[14/2/25, 12:13:15] Diana: Going to visit family. You?
+[14/2/25, 13:31:32] Alice: Let me know if you need help.
+[14/2/25, 14:55:14] Charlie: Absolutely, binge-worthy!
+[14/2/25, 15:13:49] Alice: Absolutely, binge-worthy!
+[14/2/25, 15:39:28] Alice: Not yet, is it good?
+[15/2/25, 08:29:48] Bob: Staying home, just taking it easy.
+[15/2/25, 08:59:06] Alice: Sure, see you soon.
+[15/2/25, 09:12:54] Alice: Will do, thanks!
+[15/2/25, 09:44:40] Diana: Not yet, is it good?
+[16/2/25, 09:12:10] Charlie: Hey, how are you?
+[16/2/25, 10:11:18] Bob: Let me know if you need help.
+[16/2/25, 11:38:55] Bob: Right, thanks for the reminder!
+[17/2/25, 09:50:15] Charlie: Hey, how are you?
+[17/2/25, 09:57:02] Bob: Right, thanks for the reminder!
+[17/2/25, 11:12:35] Alice: Yeah, you definitely should.
+[17/2/25, 12:27:53] Diana: Not yet, is it good?
+[17/2/25, 13:51:12] Bob: Let me know if you need help.
+[17/2/25, 14:01:33] Diana: Yeah, you definitely should.
+[17/2/25, 15:22:39] Charlie: Thanks!
+[17/2/25, 16:34:54] Alice: Let's catch up later.
+[18/2/25, 09:42:11] Bob: Don't forget the meeting tomorrow.
+[18/2/25, 10:33:01] Bob: Cool! Enjoy it.
+[18/2/25, 10:56:41] Diana: Sure, see you soon.
+[18/2/25, 11:59:55] Alice: Bye!
+[18/2/25, 12:08:47] Alice: Going to visit family. You?
+[18/2/25, 12:57:07] Bob: I'm doing great! Just got back from a trip.
+[18/2/25, 13:40:41] Bob: Bye!
+[19/2/25, 12:03:16] Diana: Not yet, working on it tonight.
+[19/2/25, 12:59:37] Alice: Sure, see you soon.
+[19/2/25, 13:30:12] Bob: Morning everyone!
+[20/2/25, 10:45:44] Alice: I'll check it out then.
+[20/2/25, 11:36:24] Charlie: Bye!
+[20/2/25, 11:48:24] Diana: I went to Japan. It was amazing!
+[21/2/25, 09:12:17] Bob: Sounds relaxing!
+[21/2/25, 09:45:48] Charlie: Thanks!
+[21/2/25, 10:45:54] Alice: Will do, thanks!
+[21/2/25, 11:55:42] Charlie: Cool! Enjoy it.
+[22/2/25, 09:56:19] Diana: What are you up to this weekend?
+[22/2/25, 10:41:45] Diana: Bye!
+[22/2/25, 10:50:34] Bob: Any plans for the holidays?
+[22/2/25, 12:03:22] Bob: Don't forget the meeting tomorrow.
+[22/2/25, 12:38:19] Diana: Sure, see you soon.
+[23/2/25, 10:08:54] Diana: Sounds relaxing!
+[23/2/25, 10:20:06] Diana: That sounds awesome. I've always wanted to go there.
+[24/2/25, 11:50:17] Diana: Bye!
+[24/2/25, 12:33:04] Alice: Have you watched the new series on Netflix?
+[24/2/25, 13:41:01] Charlie: I'll check it out then.
+[25/2/25, 10:57:46] Alice: Have you watched the new series on Netflix?
+[25/2/25, 11:04:47] Diana: I'll check it out then.
+[25/2/25, 11:27:47] Alice: Let's catch up later.
+[25/2/25, 12:13:36] Diana: I'll check it out then.
+[25/2/25, 12:52:11] Bob: Morning everyone!
+[25/2/25, 14:16:03] Alice: Hey, how are you?
+[26/2/25, 10:54:42] Bob: Will do, thanks!
+[26/2/25, 11:46:31] Alice: Not yet, is it good?
+[26/2/25, 13:07:17] Diana: Going to visit family. You?
+[26/2/25, 13:31:23] Bob: I went to Japan. It was amazing!
+[26/2/25, 14:54:33] Alice: That sounds awesome. I've always wanted to go there.
+[27/2/25, 10:34:38] Alice: Sure, see you soon.
+[27/2/25, 11:13:08] Bob: Sounds relaxing!
+[27/2/25, 12:30:26] Diana: Sounds relaxing!
+[27/2/25, 13:23:55] Charlie: Probably just relaxing. Maybe some hiking.
+[28/2/25, 09:42:25] Alice: Not yet, working on it tonight.
+[28/2/25, 09:50:39] Bob: That sounds awesome. I've always wanted to go there.
+[28/2/25, 11:15:05] Bob: Morning everyone!
+[28/2/25, 11:39:13] Diana: Thanks!
+[28/2/25, 13:10:08] Alice: Going to visit family. You?
+[28/2/25, 13:40:34] Diana: Thanks!
+[28/2/25, 14:54:07] Bob: Let me know if you need help.
+[1/3/25, 10:31:58] Diana: Not yet, working on it tonight.
+[1/3/25, 11:47:02] Bob: Staying home, just taking it easy.
+[1/3/25, 13:09:46] Charlie: Let me know if you need help.
+[1/3/25, 14:10:30] Charlie: Sure, see you soon.
+[2/3/25, 08:56:05] Diana: That sounds awesome. I've always wanted to go there.
+[2/3/25, 09:39:35] Alice: Morning everyone!
+[2/3/25, 11:08:03] Charlie: Have you watched the new series on Netflix?
+[2/3/25, 12:11:11] Charlie: Right, thanks for the reminder!
+[2/3/25, 12:27:18] Alice: Nice! Where did you go?
+[3/3/25, 11:03:08] Alice: That sounds awesome. I've always wanted to go there.
+[3/3/25, 11:15:14] Alice: Not yet, is it good?
+[3/3/25, 11:42:39] Bob: What are you up to this weekend?
+[4/3/25, 10:39:38] Charlie: That sounds awesome. I've always wanted to go there.
+[4/3/25, 11:47:46] Alice: Sure, see you soon.
+[4/3/25, 12:52:51] Bob: Will do, thanks!
+[5/3/25, 11:11:48] Charlie: Nice! Where did you go?
+[5/3/25, 11:23:38] Bob: Will do, thanks!
+[5/3/25, 12:25:19] Bob: Hey, how are you?
+[6/3/25, 09:06:31] Diana: Probably just relaxing. Maybe some hiking.
+[6/3/25, 10:10:24] Bob: Sounds relaxing!
+[6/3/25, 10:22:48] Diana: Not yet, is it good?
+[7/3/25, 11:23:38] Alice: Absolutely, binge-worthy!
+[7/3/25, 11:59:50] Bob: Staying home, just taking it easy.
+[7/3/25, 12:33:36] Charlie: Not yet, is it good?
+[8/3/25, 10:05:54] Bob: Cool! Enjoy it.
+[8/3/25, 10:10:26] Bob: Nice! Where did you go?
+[8/3/25, 11:14:09] Diana: Yeah, you definitely should.
+[8/3/25, 11:44:23] Alice: Any plans for the holidays?
+[8/3/25, 12:55:00] Charlie: Not yet, working on it tonight.
+[8/3/25, 13:28:53] Bob: Don't forget the meeting tomorrow.
+[8/3/25, 14:34:44] Diana: Sounds relaxing!
+[8/3/25, 15:51:39] Alice: Bye!
+[9/3/25, 09:40:08] Bob: Right, thanks for the reminder!
+[9/3/25, 10:01:03] Alice: Staying home, just taking it easy.
+[9/3/25, 11:01:22] Diana: Will do, thanks!
+[9/3/25, 11:31:55] Charlie: Don't forget the meeting tomorrow.
+[10/3/25, 08:35:38] Diana: Cool! Enjoy it.
+[10/3/25, 09:25:16] Diana: Nice! Where did you go?
+[10/3/25, 09:40:30] Charlie: What are you up to this weekend?
+[10/3/25, 11:05:06] Charlie: Right, thanks for the reminder!
+[10/3/25, 12:08:11] Alice: That sounds awesome. I've always wanted to go there.
+[10/3/25, 13:13:44] Diana: That sounds awesome. I've always wanted to go there.
+[10/3/25, 13:36:31] Diana: Right, thanks for the reminder!
+[11/3/25, 12:16:55] Alice: Let's catch up later.
+[11/3/25, 12:22:12] Charlie: I'll check it out then.
+[11/3/25, 13:28:26] Diana: Nice! Where did you go?
+[11/3/25, 13:35:44] Bob: Don't forget the meeting tomorrow.
+[11/3/25, 14:18:20] Diana: Will do, thanks!
+[11/3/25, 15:47:59] Alice: Let's catch up later.
+[11/3/25, 17:08:02] Diana: Cool! Enjoy it.
+[11/3/25, 17:37:01] Alice: Sounds relaxing!
+[12/3/25, 10:18:24] Alice: Good night!
+[12/3/25, 10:25:32] Alice: Let's catch up later.
+[12/3/25, 10:37:49] Alice: Did you finish the project?
+[12/3/25, 10:51:27] Alice: Not yet, working on it tonight.
+[12/3/25, 10:55:38] Diana: Nice! Where did you go?
+[13/3/25, 09:53:16] Bob: Nice! Where did you go?
+[13/3/25, 09:55:15] Alice: Right, thanks for the reminder!
+[13/3/25, 11:22:16] Charlie: Good night!
+[13/3/25, 12:13:52] Diana: That sounds awesome. I've always wanted to go there.
+[13/3/25, 12:59:31] Bob: Cool! Enjoy it.
+[14/3/25, 08:46:29] Charlie: That sounds awesome. I've always wanted to go there.
+[14/3/25, 09:41:07] Diana: Thanks!
+[14/3/25, 09:54:15] Charlie: Let me know if you need help.
+[14/3/25, 10:05:45] Charlie: I'll check it out then.
+[14/3/25, 11:19:41] Diana: Not yet, working on it tonight.
+[14/3/25, 12:11:23] Bob: Yeah, you definitely should.
+[14/3/25, 12:14:56] Alice: Good night!
+[15/3/25, 10:00:25] Charlie: Not yet, working on it tonight.
+[15/3/25, 10:59:00] Charlie: That sounds awesome. I've always wanted to go there.
+[15/3/25, 12:28:46] Bob: Have you watched the new series on Netflix?
+[15/3/25, 13:18:05] Alice: Not yet, is it good?
+[15/3/25, 13:45:21] Charlie: Nice! Where did you go?
+[15/3/25, 15:00:38] Diana: Right, thanks for the reminder!
+[15/3/25, 15:57:43] Bob: Will do, thanks!
+[16/3/25, 10:53:38] Bob: Sure, see you soon.
+[16/3/25, 11:41:33] Alice: What are you up to this weekend?
+[16/3/25, 12:35:49] Bob: Good night!
+[17/3/25, 11:30:59] Bob: Let's catch up later.
+[17/3/25, 11:47:52] Diana: Going to visit family. You?
+[17/3/25, 13:03:15] Diana: Going to visit family. You?
+[17/3/25, 13:32:16] Charlie: Going to visit family. You?
+[17/3/25, 14:41:18] Diana: Thanks!
+[17/3/25, 15:00:16] Bob: Right, thanks for the reminder!
+[18/3/25, 10:07:28] Charlie: Bye!
+[18/3/25, 10:41:46] Diana: Sounds relaxing!
+[18/3/25, 11:18:48] Charlie: Have you watched the new series on Netflix?
+[18/3/25, 11:50:34] Bob: Let me know if you need help.
+[18/3/25, 12:47:20] Charlie: That sounds awesome. I've always wanted to go there.
+[19/3/25, 10:31:21] Diana: Any plans for the holidays?
+[19/3/25, 11:08:29] Bob: Have you watched the new series on Netflix?
+[19/3/25, 11:29:59] Alice: Let's catch up later.
+[19/3/25, 11:54:21] Charlie: Good night!
+[19/3/25, 12:35:19] Charlie: Hey, how are you?
+[20/3/25, 11:18:20] Charlie: Hey, how are you?
+[20/3/25, 11:42:27] Diana: I'll check it out then.
+[20/3/25, 12:08:14] Diana: Staying home, just taking it easy.
+[20/3/25, 12:14:51] Bob: Good night!
+[21/3/25, 10:36:26] Bob: Sure, see you soon.
+[21/3/25, 10:51:05] Bob: Good night!
+[21/3/25, 11:37:51] Diana: Let me know if you need help.
+[21/3/25, 12:39:48] Charlie: I went to Japan. It was amazing!
+[21/3/25, 13:13:26] Alice: Did you finish the project?
+[21/3/25, 14:03:54] Diana: Absolutely, binge-worthy!
+[21/3/25, 15:34:53] Charlie: Bye!
+[21/3/25, 16:09:56] Bob: Cool! Enjoy it.
+[22/3/25, 10:24:40] Bob: Let's catch up later.
+[22/3/25, 11:49:13] Diana: Sure, see you soon.
+[22/3/25, 11:59:36] Alice: Probably just relaxing. Maybe some hiking.
+[22/3/25, 12:14:39] Bob: Going to visit family. You?
+[22/3/25, 13:39:27] Alice: Yeah, you definitely should.
+[23/3/25, 09:17:03] Bob: Going to visit family. You?
+[23/3/25, 10:05:45] Diana: Going to visit family. You?
+[23/3/25, 11:16:00] Bob: Sounds relaxing!
+[23/3/25, 11:47:20] Diana: Staying home, just taking it easy.
+[23/3/25, 12:39:55] Alice: Hey, how are you?
+[23/3/25, 13:02:39] Diana: Let me know if you need help.
+[23/3/25, 14:01:24] Diana: That sounds awesome. I've always wanted to go there.
+[24/3/25, 08:51:40] Diana: I went to Japan. It was amazing!
+[24/3/25, 09:17:34] Bob: Morning everyone!
+[24/3/25, 09:38:36] Charlie: Probably just relaxing. Maybe some hiking.
+[24/3/25, 10:39:04] Charlie: Sounds relaxing!
+[25/3/25, 11:08:55] Bob: Nice! Where did you go?
+[25/3/25, 12:20:08] Bob: Bye!
+[25/3/25, 13:18:27] Alice: Have you watched the new series on Netflix?
+[25/3/25, 13:43:32] Bob: Nice! Where did you go?
+[25/3/25, 14:18:06] Diana: Right, thanks for the reminder!
+[26/3/25, 12:05:16] Alice: Don't forget the meeting tomorrow.
+[26/3/25, 13:22:39] Diana: That sounds awesome. I've always wanted to go there.
+[26/3/25, 14:19:05] Diana: Yeah, you definitely should.
+[26/3/25, 15:31:32] Charlie: Any plans for the holidays?
+[26/3/25, 16:46:26] Diana: Cool! Enjoy it.
+[26/3/25, 17:26:48] Alice: Going to visit family. You?
+[26/3/25, 18:13:40] Diana: Absolutely, binge-worthy!
+[27/3/25, 10:26:12] Bob: Bye!
+[27/3/25, 10:45:16] Alice: Not yet, is it good?
+[27/3/25, 10:52:36] Alice: Did you finish the project?
+[27/3/25, 11:04:30] Diana: What are you up to this weekend?
+[28/3/25, 09:08:16] Diana: Hey, how are you?
+[28/3/25, 10:35:46] Charlie: Staying home, just taking it easy.
+[28/3/25, 10:38:23] Alice: I'll check it out then.
+[28/3/25, 10:51:56] Alice: Cool! Enjoy it.
+[28/3/25, 11:49:48] Bob: That sounds awesome. I've always wanted to go there.
+[29/3/25, 09:22:19] Charlie: I'm doing great! Just got back from a trip.
+[29/3/25, 10:18:27] Alice: I'm doing great! Just got back from a trip.
+[29/3/25, 10:31:10] Alice: That sounds awesome. I've always wanted to go there.
+[30/3/25, 09:43:57] Alice: Going to visit family. You?
+[30/3/25, 10:58:36] Diana: Let me know if you need help.
+[30/3/25, 11:55:24] Alice: Absolutely, binge-worthy!
+[31/3/25, 11:23:51] Alice: Absolutely, binge-worthy!
+[31/3/25, 11:47:13] Charlie: Staying home, just taking it easy.
+[31/3/25, 12:40:26] Charlie: Nice! Where did you go?
+[31/3/25, 13:07:17] Bob: Bye!
+[31/3/25, 14:16:47] Alice: Thanks!
+[31/3/25, 14:42:58] Alice: Bye!
+[1/4/25, 09:55:10] Charlie: Right, thanks for the reminder!
+[1/4/25, 10:27:46] Bob: Good night!
+[2/4/25, 09:47:09] Charlie: What are you up to this weekend?
+[2/4/25, 11:03:34] Alice: Any plans for the holidays?
+[2/4/25, 12:11:27] Alice: Let's catch up later.
+[2/4/25, 12:21:20] Alice: What are you up to this weekend?
+[2/4/25, 12:47:04] Charlie: Sure, see you soon.
+[2/4/25, 13:32:50] Charlie: Hey, how are you?
+[2/4/25, 14:52:00] Diana: Not yet, working on it tonight.
+[3/4/25, 11:04:50] Charlie: What are you up to this weekend?
+[3/4/25, 12:24:19] Diana: Did you finish the project?
+[3/4/25, 12:26:03] Bob: Going to visit family. You?
+[3/4/25, 13:21:50] Charlie: Nice! Where did you go?
+[4/4/25, 10:01:02] Charlie: That sounds awesome. I've always wanted to go there.
+[4/4/25, 10:05:31] Bob: I went to Japan. It was amazing!
+[4/4/25, 11:34:12] Alice: I'm doing great! Just got back from a trip.
+[4/4/25, 12:08:54] Diana: I went to Japan. It was amazing!
+[4/4/25, 12:37:13] Bob: Sure, see you soon.
+[4/4/25, 13:00:54] Charlie: Don't forget the meeting tomorrow.
+[4/4/25, 13:16:26] Alice: Have you watched the new series on Netflix?
+[4/4/25, 14:06:46] Alice: Any plans for the holidays?
+[5/4/25, 10:07:38] Bob: Let's catch up later.
+[5/4/25, 11:00:11] Bob: Not yet, is it good?
+[6/4/25, 09:57:41] Diana: Thanks!
+[6/4/25, 10:12:56] Alice: Yeah, you definitely should.
+[6/4/25, 11:31:01] Bob: Going to visit family. You?
+[6/4/25, 11:50:09] Charlie: Not yet, working on it tonight.
+[6/4/25, 13:14:06] Charlie: Let's catch up later.
+[6/4/25, 13:38:43] Bob: Thanks!
+[6/4/25, 13:50:26] Alice: Let's catch up later.
+[6/4/25, 13:59:11] Alice: Staying home, just taking it easy.
+[7/4/25, 11:20:23] Bob: Probably just relaxing. Maybe some hiking.
+[7/4/25, 12:47:01] Bob: Will do, thanks!
+[7/4/25, 14:11:52] Bob: Sure, see you soon.
+[7/4/25, 14:14:43] Bob: Will do, thanks!
+[7/4/25, 14:22:12] Charlie: Probably just relaxing. Maybe some hiking.
+[7/4/25, 14:32:31] Charlie: Sounds relaxing!
+[8/4/25, 09:27:46] Diana: I'll check it out then.
+[8/4/25, 09:34:39] Bob: Probably just relaxing. Maybe some hiking.
+[8/4/25, 11:01:51] Charlie: That sounds awesome. I've always wanted to go there.
+[8/4/25, 11:05:42] Bob: Probably just relaxing. Maybe some hiking.
+[8/4/25, 12:05:16] Diana: That sounds awesome. I've always wanted to go there.
+[8/4/25, 13:04:03] Bob: Don't forget the meeting tomorrow.
+[8/4/25, 13:06:49] Bob: Absolutely, binge-worthy!
+[8/4/25, 13:11:36] Charlie: What are you up to this weekend?
+[9/4/25, 10:56:21] Alice: I'll check it out then.
+[9/4/25, 11:59:38] Charlie: Will do, thanks!
+[9/4/25, 13:12:33] Diana: What are you up to this weekend?
+[9/4/25, 14:06:48] Bob: Morning everyone!
+[9/4/25, 14:36:23] Charlie: Not yet, working on it tonight.
+[10/4/25, 09:29:53] Diana: Have you watched the new series on Netflix?
+[10/4/25, 10:56:42] Charlie: I went to Japan. It was amazing!
+[10/4/25, 11:17:12] Alice: That sounds awesome. I've always wanted to go there.
+[10/4/25, 12:04:38] Charlie: Morning everyone!
+[10/4/25, 13:29:32] Bob: Did you finish the project?
+[10/4/25, 14:31:25] Diana: Hey, how are you?
+[11/4/25, 10:27:18] Charlie: Sure, see you soon.
+[11/4/25, 11:40:49] Charlie: I went to Japan. It was amazing!
+[11/4/25, 12:18:23] Charlie: Staying home, just taking it easy.
+[11/4/25, 13:46:57] Bob: Absolutely, binge-worthy!
+[11/4/25, 14:58:05] Charlie: Not yet, is it good?
+[12/4/25, 09:36:45] Charlie: Cool! Enjoy it.
+[12/4/25, 10:53:06] Bob: Not yet, working on it tonight.
+[12/4/25, 11:10:08] Diana: Sure, see you soon.
+[12/4/25, 11:38:18] Alice: Not yet, working on it tonight.
+[12/4/25, 12:54:16] Bob: Staying home, just taking it easy.
+[12/4/25, 14:21:23] Bob: Let me know if you need help.
+[13/4/25, 10:02:43] Bob: I'll check it out then.
+[13/4/25, 11:23:50] Alice: Absolutely, binge-worthy!
+[13/4/25, 12:20:43] Bob: Bye!
+[13/4/25, 12:59:22] Diana: I went to Japan. It was amazing!
+[13/4/25, 13:48:42] Diana: Probably just relaxing. Maybe some hiking.
+[13/4/25, 14:06:03] Alice: What are you up to this weekend?
+[13/4/25, 14:59:15] Bob: Absolutely, binge-worthy!
+[13/4/25, 15:08:55] Diana: Hey, how are you?
+[14/4/25, 11:00:22] Bob: I'll check it out then.
+[14/4/25, 12:21:53] Bob: Cool! Enjoy it.
+[14/4/25, 13:17:46] Bob: I went to Japan. It was amazing!
+[14/4/25, 13:35:09] Alice: Not yet, is it good?
+[14/4/25, 14:31:58] Bob: Sounds relaxing!
+[14/4/25, 14:53:37] Bob: Have you watched the new series on Netflix?
+[14/4/25, 15:57:30] Alice: Absolutely, binge-worthy!
+[15/4/25, 11:43:56] Bob: That sounds awesome. I've always wanted to go there.
+[15/4/25, 12:40:38] Alice: I'll check it out then.
+[15/4/25, 13:00:04] Diana: Not yet, working on it tonight.
+[15/4/25, 13:41:32] Charlie: Any plans for the holidays?
+[15/4/25, 13:42:40] Alice: Sure, see you soon.
+[15/4/25, 13:45:45] Charlie: Nice! Where did you go?
+[16/4/25, 09:17:18] Charlie: Hey, how are you?
+[16/4/25, 09:44:22] Charlie: Right, thanks for the reminder!
+[16/4/25, 10:28:41] Bob: Bye!
+[16/4/25, 10:46:39] Charlie: Don't forget the meeting tomorrow.
+[16/4/25, 11:32:02] Charlie: Cool! Enjoy it.
+[16/4/25, 12:37:32] Charlie: Going to visit family. You?
+[16/4/25, 12:57:05] Charlie: Don't forget the meeting tomorrow.
+[17/4/25, 09:32:54] Diana: Any plans for the holidays?
+[17/4/25, 10:48:03] Charlie: Will do, thanks!
+[17/4/25, 10:49:37] Alice: Hey, how are you?
+[17/4/25, 12:18:06] Bob: I'll check it out then.
+[18/4/25, 10:17:00] Diana: I went to Japan. It was amazing!
+[18/4/25, 11:08:13] Bob: I'll check it out then.
+[18/4/25, 11:49:59] Alice: Have you watched the new series on Netflix?
+[18/4/25, 12:19:00] Charlie: Right, thanks for the reminder!
+[18/4/25, 13:01:08] Alice: Sounds relaxing!
+[18/4/25, 14:19:32] Bob: Not yet, is it good?
+[18/4/25, 14:53:40] Charlie: Going to visit family. You?
+[19/4/25, 08:59:20] Diana: Let's catch up later.
+[19/4/25, 10:14:37] Diana: Any plans for the holidays?
+[19/4/25, 10:15:45] Bob: Sure, see you soon.
+[20/4/25, 11:34:03] Charlie: What are you up to this weekend?
+[20/4/25, 11:59:45] Bob: Have you watched the new series on Netflix?
+[20/4/25, 13:18:26] Diana: Staying home, just taking it easy.
+[20/4/25, 13:57:58] Diana: Will do, thanks!
+[20/4/25, 14:37:50] Bob: Staying home, just taking it easy.
+[20/4/25, 15:42:35] Bob: Bye!
+[20/4/25, 16:25:22] Bob: Hey, how are you?
+[21/4/25, 10:16:16] Bob: Good night!
+[21/4/25, 11:30:50] Diana: Sounds relaxing!
+[22/4/25, 10:25:06] Alice: Thanks!
+[22/4/25, 10:32:14] Charlie: Let me know if you need help.
+[22/4/25, 12:00:55] Diana: Yeah, you definitely should.
+[22/4/25, 12:09:03] Diana: Sure, see you soon.
+[22/4/25, 12:12:41] Alice: Nice! Where did you go?
+[22/4/25, 13:22:01] Bob: Good night!
+[23/4/25, 10:26:45] Diana: Have you watched the new series on Netflix?
+[23/4/25, 11:27:14] Alice: Cool! Enjoy it.
+[23/4/25, 11:37:48] Bob: Let's catch up later.
+[23/4/25, 12:19:52] Bob: Staying home, just taking it easy.
+[23/4/25, 12:47:10] Alice: Any plans for the holidays?
+[23/4/25, 13:58:18] Alice: Nice! Where did you go?
+[24/4/25, 08:56:54] Diana: Not yet, working on it tonight.
+[24/4/25, 09:15:35] Alice: Nice! Where did you go?
+[24/4/25, 10:36:01] Alice: Hey, how are you?
+[24/4/25, 11:48:08] Alice: Not yet, working on it tonight.
+[24/4/25, 12:49:43] Bob: Probably just relaxing. Maybe some hiking.
+[25/4/25, 10:29:58] Charlie: Hey, how are you?
+[25/4/25, 11:54:48] Charlie: Will do, thanks!
+[25/4/25, 13:18:09] Charlie: Nice! Where did you go?
+[26/4/25, 11:17:59] Charlie: Sure, see you soon.
+[26/4/25, 12:19:53] Diana: Right, thanks for the reminder!
+[26/4/25, 12:22:34] Diana: Going to visit family. You?
+[26/4/25, 13:15:20] Alice: Sounds relaxing!
+[26/4/25, 14:17:32] Diana: Don't forget the meeting tomorrow.
+[26/4/25, 15:05:08] Diana: Let's catch up later.
+[26/4/25, 16:16:54] Bob: Absolutely, binge-worthy!
+[26/4/25, 16:29:43] Alice: Right, thanks for the reminder!
+[27/4/25, 10:08:52] Alice: Good night!
+[27/4/25, 11:27:42] Diana: Sounds relaxing!
+[27/4/25, 11:44:31] Charlie: Nice! Where did you go?
+[27/4/25, 12:29:53] Charlie: Probably just relaxing. Maybe some hiking.
+[27/4/25, 12:36:50] Alice: Let's catch up later.
+[27/4/25, 13:22:38] Diana: Staying home, just taking it easy.
+[27/4/25, 14:53:06] Alice: Morning everyone!
+[28/4/25, 09:22:44] Charlie: Not yet, working on it tonight.
+[28/4/25, 09:24:20] Bob: Good night!
+[28/4/25, 10:53:34] Bob: Sounds relaxing!
+[28/4/25, 11:27:56] Alice: Absolutely, binge-worthy!
+[28/4/25, 12:00:24] Charlie: Any plans for the holidays?
+[28/4/25, 12:07:08] Alice: Absolutely, binge-worthy!
+[28/4/25, 13:21:36] Diana: I'll check it out then.
+[28/4/25, 14:49:47] Diana: Will do, thanks!
+[29/4/25, 11:22:31] Diana: Don't forget the meeting tomorrow.
+[29/4/25, 12:28:13] Bob: Bye!
+[29/4/25, 13:54:07] Alice: Probably just relaxing. Maybe some hiking.
+[29/4/25, 15:15:01] Charlie: Yeah, you definitely should.
+[29/4/25, 16:21:43] Charlie: Have you watched the new series on Netflix?
+[29/4/25, 17:39:26] Bob: I went to Japan. It was amazing!
+[29/4/25, 18:08:39] Diana: Any plans for the holidays?
+[30/4/25, 11:44:39] Diana: Going to visit family. You?
+[30/4/25, 13:14:54] Bob: Have you watched the new series on Netflix?
+[30/4/25, 13:35:02] Diana: Not yet, working on it tonight.
+[1/5/25, 10:57:55] Bob: Sounds relaxing!
+[1/5/25, 11:49:29] Bob: Hey, how are you?
+[1/5/25, 13:16:20] Charlie: Sounds relaxing!
+[1/5/25, 14:22:46] Charlie: Have you watched the new series on Netflix?
+[1/5/25, 14:38:09] Bob: I went to Japan. It was amazing!
+[2/5/25, 10:27:24] Charlie: Absolutely, binge-worthy!
+[2/5/25, 10:55:53] Alice: I'll check it out then.
+[2/5/25, 11:20:17] Charlie: Will do, thanks!
+[2/5/25, 12:38:20] Alice: Have you watched the new series on Netflix?
+[2/5/25, 13:45:14] Charlie: Nice! Where did you go?
+[3/5/25, 12:00:40] Charlie: Let's catch up later.
+[3/5/25, 13:01:16] Diana: I'll check it out then.
+[3/5/25, 13:48:24] Alice: What are you up to this weekend?
+[3/5/25, 15:17:41] Charlie: Bye!
+[3/5/25, 16:35:26] Bob: Don't forget the meeting tomorrow.
+[3/5/25, 17:44:47] Alice: Good night!
+[3/5/25, 19:09:12] Charlie: Let me know if you need help.
+[4/5/25, 10:00:21] Diana: Let me know if you need help.
+[4/5/25, 10:02:23] Alice: Hey, how are you?
+[4/5/25, 10:59:35] Bob: Thanks!
+[4/5/25, 12:29:53] Alice: Let me know if you need help.
+[4/5/25, 13:31:16] Charlie: Did you finish the project?
+[4/5/25, 13:35:00] Bob: Will do, thanks!
+[5/5/25, 10:33:42] Diana: I'm doing great! Just got back from a trip.
+[5/5/25, 11:50:28] Charlie: Not yet, working on it tonight.
+[5/5/25, 12:18:57] Bob: Good night!
+[5/5/25, 12:55:05] Alice: Nice! Where did you go?
+[5/5/25, 13:23:22] Charlie: Have you watched the new series on Netflix?
+[5/5/25, 13:56:50] Alice: Staying home, just taking it easy.
+[6/5/25, 11:30:15] Diana: Cool! Enjoy it.
+[6/5/25, 11:47:59] Charlie: Cool! Enjoy it.
+[7/5/25, 09:49:50] Bob: Sounds relaxing!
+[7/5/25, 10:20:17] Bob: Nice! Where did you go?
+[7/5/25, 10:38:16] Diana: Right, thanks for the reminder!
+[8/5/25, 11:50:56] Bob: Morning everyone!
+[8/5/25, 13:00:49] Charlie: Morning everyone!
+[8/5/25, 13:14:56] Bob: Yeah, you definitely should.
+[8/5/25, 14:02:07] Charlie: I went to Japan. It was amazing!
+[8/5/25, 14:28:17] Diana: I'm doing great! Just got back from a trip.
+[8/5/25, 15:17:59] Charlie: That sounds awesome. I've always wanted to go there.
+[8/5/25, 15:50:20] Diana: Don't forget the meeting tomorrow.
+[9/5/25, 10:37:50] Charlie: Have you watched the new series on Netflix?
+[9/5/25, 11:02:17] Alice: Not yet, is it good?
+[10/5/25, 09:07:19] Charlie: Cool! Enjoy it.
+[10/5/25, 09:25:24] Charlie: Probably just relaxing. Maybe some hiking.
+[10/5/25, 10:53:21] Bob: Going to visit family. You?
+[10/5/25, 11:00:28] Alice: Don't forget the meeting tomorrow.
+[10/5/25, 11:31:25] Charlie: Right, thanks for the reminder!
+[10/5/25, 11:38:23] Diana: Have you watched the new series on Netflix?
+[11/5/25, 11:09:22] Charlie: Probably just relaxing. Maybe some hiking.
+[11/5/25, 12:24:55] Alice: Good night!
+[11/5/25, 13:10:07] Diana: Have you watched the new series on Netflix?
+[11/5/25, 14:25:21] Alice: Did you finish the project?
+[12/5/25, 12:19:05] Alice: Have you watched the new series on Netflix?
+[12/5/25, 13:39:53] Diana: Don't forget the meeting tomorrow.
+[12/5/25, 14:01:06] Diana: Sure, see you soon.
+[12/5/25, 14:39:23] Alice: I went to Japan. It was amazing!
+[12/5/25, 15:04:23] Charlie: Absolutely, binge-worthy!
+[12/5/25, 15:10:14] Bob: Nice! Where did you go?
+[12/5/25, 15:20:03] Bob: Not yet, is it good?
+[13/5/25, 10:39:37] Charlie: Did you finish the project?
+[13/5/25, 11:47:23] Bob: Going to visit family. You?
+[13/5/25, 12:22:30] Diana: Nice! Where did you go?
+[13/5/25, 13:04:49] Bob: Have you watched the new series on Netflix?
+[13/5/25, 13:35:56] Charlie: Let's catch up later.
+[13/5/25, 14:54:11] Bob: Not yet, is it good?
+[14/5/25, 12:13:56] Diana: That sounds awesome. I've always wanted to go there.
+[14/5/25, 13:21:44] Alice: Cool! Enjoy it.
+[14/5/25, 14:08:17] Diana: Sure, see you soon.
+[14/5/25, 14:09:37] Charlie: Good night!
+[14/5/25, 14:42:34] Alice: Bye!
+[14/5/25, 16:03:37] Charlie: Staying home, just taking it easy.
+[14/5/25, 16:22:53] Diana: Sounds relaxing!
+[14/5/25, 17:09:02] Bob: Sure, see you soon.
+[15/5/25, 10:54:59] Diana: Will do, thanks!
+[15/5/25, 11:36:43] Diana: Sounds relaxing!
+[16/5/25, 10:40:43] Alice: I went to Japan. It was amazing!
+[16/5/25, 11:49:20] Alice: Have you watched the new series on Netflix?
+[17/5/25, 12:07:00] Alice: Right, thanks for the reminder!
+[17/5/25, 13:22:02] Charlie: Yeah, you definitely should.
+[18/5/25, 09:40:49] Diana: Sounds relaxing!
+[18/5/25, 10:49:04] Bob: Let's catch up later.
+[18/5/25, 12:15:20] Diana: What are you up to this weekend?
+[18/5/25, 13:27:52] Alice: I went to Japan. It was amazing!
+[18/5/25, 14:38:50] Alice: Hey, how are you?
+[18/5/25, 15:03:03] Alice: Going to visit family. You?
+[18/5/25, 15:33:02] Charlie: Cool! Enjoy it.
+[19/5/25, 08:41:33] Charlie: Any plans for the holidays?
+[19/5/25, 09:44:36] Alice: Thanks!
+[19/5/25, 10:35:19] Charlie: Hey, how are you?
+[19/5/25, 10:38:31] Bob: Nice! Where did you go?
+[20/5/25, 09:37:40] Charlie: Did you finish the project?
+[20/5/25, 09:44:42] Charlie: Morning everyone!
+[20/5/25, 10:43:35] Charlie: Did you finish the project?
+[20/5/25, 11:00:03] Alice: Morning everyone!
+[20/5/25, 11:38:01] Alice: Right, thanks for the reminder!
+[20/5/25, 12:30:50] Bob: Absolutely, binge-worthy!
+[20/5/25, 12:32:17] Bob: Not yet, is it good?
+[21/5/25, 09:16:08] Diana: Don't forget the meeting tomorrow.
+[21/5/25, 10:18:49] Bob: Don't forget the meeting tomorrow.
+[21/5/25, 10:53:42] Charlie: I'll check it out then.
+[21/5/25, 12:13:29] Diana: Not yet, is it good?
+[21/5/25, 13:05:07] Bob: I'll check it out then.
+[21/5/25, 14:05:40] Charlie: I'm doing great! Just got back from a trip.
+[21/5/25, 15:20:35] Diana: Thanks!
+[21/5/25, 16:09:06] Diana: Probably just relaxing. Maybe some hiking.
+[22/5/25, 11:28:33] Diana: Going to visit family. You?
+[22/5/25, 11:51:53] Charlie: I'm doing great! Just got back from a trip.
+[22/5/25, 12:36:01] Bob: Absolutely, binge-worthy!
+[23/5/25, 10:15:59] Bob: Thanks!
+[23/5/25, 10:44:35] Charlie: I'll check it out then.
+[23/5/25, 12:00:14] Alice: Cool! Enjoy it.
+[23/5/25, 12:18:14] Charlie: Bye!
+[23/5/25, 13:13:58] Diana: What are you up to this weekend?
+[24/5/25, 09:16:01] Bob: I'm doing great! Just got back from a trip.
+[24/5/25, 10:37:45] Bob: Any plans for the holidays?
+[24/5/25, 10:44:48] Bob: I went to Japan. It was amazing!
+[24/5/25, 11:43:11] Bob: Sure, see you soon.
+[25/5/25, 09:08:45] Bob: Yeah, you definitely should.
+[25/5/25, 10:21:22] Diana: Cool! Enjoy it.
+[26/5/25, 11:28:50] Charlie: Staying home, just taking it easy.
+[26/5/25, 12:17:57] Diana: Staying home, just taking it easy.
+[26/5/25, 13:46:05] Alice: Right, thanks for the reminder!
+[26/5/25, 14:11:28] Bob: Morning everyone!
+[26/5/25, 15:41:19] Charlie: What are you up to this weekend?
+[26/5/25, 16:22:30] Alice: Nice! Where did you go?
+[27/5/25, 09:29:34] Diana: Did you finish the project?
+[27/5/25, 10:25:59] Diana: Don't forget the meeting tomorrow.
+[27/5/25, 10:31:00] Diana: Let's catch up later.
+[27/5/25, 11:03:51] Bob: I'll check it out then.
+[27/5/25, 11:50:11] Bob: Hey, how are you?
+[27/5/25, 12:46:45] Alice: Right, thanks for the reminder!
+[27/5/25, 14:05:29] Charlie: Will do, thanks!
+[28/5/25, 09:03:09] Charlie: Right, thanks for the reminder!
+[28/5/25, 09:57:14] Alice: Absolutely, binge-worthy!
+[28/5/25, 11:06:17] Diana: Let's catch up later.
+[28/5/25, 12:16:51] Charlie: Any plans for the holidays?
+[28/5/25, 12:37:03] Diana: Cool! Enjoy it.
+[28/5/25, 13:11:16] Charlie: Absolutely, binge-worthy!
+[29/5/25, 10:51:12] Charlie: Going to visit family. You?
+[29/5/25, 12:01:59] Diana: I'll check it out then.
+[29/5/25, 13:27:36] Alice: Let me know if you need help.
+[29/5/25, 13:38:26] Bob: Thanks!
+[29/5/25, 14:30:57] Alice: Going to visit family. You?
+[30/5/25, 09:52:36] Diana: Absolutely, binge-worthy!
+[30/5/25, 10:34:40] Charlie: Don't forget the meeting tomorrow.
+[30/5/25, 10:52:12] Bob: Did you finish the project?
+[30/5/25, 11:37:00] Bob: Probably just relaxing. Maybe some hiking.
+[30/5/25, 12:36:06] Charlie: That sounds awesome. I've always wanted to go there.
+[31/5/25, 09:14:33] Alice: I went to Japan. It was amazing!
+[31/5/25, 09:56:04] Bob: Probably just relaxing. Maybe some hiking.
+[31/5/25, 09:59:12] Bob: I went to Japan. It was amazing!
+[31/5/25, 10:22:15] Bob: Right, thanks for the reminder!
+[31/5/25, 11:15:40] Alice: Going to visit family. You?
+[1/6/25, 09:38:36] Bob: Don't forget the meeting tomorrow.
+[1/6/25, 10:47:06] Alice: What are you up to this weekend?
+[1/6/25, 12:11:37] Charlie: Sounds relaxing!
+[1/6/25, 13:39:12] Charlie: Any plans for the holidays?
+[1/6/25, 13:57:36] Charlie: Any plans for the holidays?
+[1/6/25, 14:58:17] Alice: Did you finish the project?
+[1/6/25, 15:01:10] Bob: Sounds relaxing!
+[1/6/25, 15:02:32] Alice: Absolutely, binge-worthy!
+[2/6/25, 11:29:37] Bob: Let me know if you need help.
+[2/6/25, 12:47:49] Diana: Sure, see you soon.
+[2/6/25, 12:49:10] Bob: Will do, thanks!
+[2/6/25, 14:13:17] Diana: Thanks!
+[2/6/25, 15:11:04] Bob: Sure, see you soon.
+[2/6/25, 16:39:45] Bob: What are you up to this weekend?
+[2/6/25, 16:43:46] Diana: That sounds awesome. I've always wanted to go there.
+[3/6/25, 11:54:04] Alice: Sounds relaxing!
+[3/6/25, 12:38:09] Charlie: I'm doing great! Just got back from a trip.
+[3/6/25, 14:04:02] Charlie: I'm doing great! Just got back from a trip.
+[4/6/25, 09:37:41] Alice: Bye!
+[4/6/25, 10:43:24] Bob: What are you up to this weekend?
+[4/6/25, 11:27:21] Bob: Absolutely, binge-worthy!
+[4/6/25, 12:41:02] Alice: I went to Japan. It was amazing!
+[4/6/25, 13:57:45] Bob: I'll check it out then.
+[4/6/25, 14:15:25] Diana: Yeah, you definitely should.
+[4/6/25, 14:29:23] Charlie: Don't forget the meeting tomorrow.
+[4/6/25, 15:53:56] Charlie: What are you up to this weekend?
+[5/6/25, 10:02:18] Bob: Sure, see you soon.
+[5/6/25, 10:30:02] Alice: Yeah, you definitely should.
+[5/6/25, 11:21:07] Diana: Not yet, is it good?
+[5/6/25, 12:41:31] Charlie: Thanks!
+[5/6/25, 12:56:01] Alice: Will do, thanks!
+[5/6/25, 13:55:34] Bob: Will do, thanks!
+[5/6/25, 13:57:44] Charlie: Nice! Where did you go?
+[6/6/25, 11:26:54] Bob: Have you watched the new series on Netflix?
+[6/6/25, 12:04:28] Charlie: That sounds awesome. I've always wanted to go there.
+[6/6/25, 12:40:04] Bob: What are you up to this weekend?
+[7/6/25, 10:52:37] Bob: I went to Japan. It was amazing!
+[7/6/25, 11:24:51] Alice: Sounds relaxing!
+[7/6/25, 12:21:27] Charlie: Let me know if you need help.
+[7/6/25, 12:28:00] Alice: Good night!
+[7/6/25, 12:30:45] Alice: Hey, how are you?
+[7/6/25, 13:18:38] Bob: Right, thanks for the reminder!
+[8/6/25, 10:34:52] Alice: Not yet, working on it tonight.
+[8/6/25, 11:57:42] Bob: What are you up to this weekend?
+[8/6/25, 12:01:29] Alice: Absolutely, binge-worthy!
+[8/6/25, 12:11:58] Charlie: I'll check it out then.
+[8/6/25, 13:16:40] Bob: Don't forget the meeting tomorrow.
+[8/6/25, 14:12:53] Charlie: Staying home, just taking it easy.
+[8/6/25, 15:23:05] Alice: Not yet, working on it tonight.
+[9/6/25, 11:02:32] Alice: Hey, how are you?
+[9/6/25, 11:57:17] Charlie: Right, thanks for the reminder!
+[9/6/25, 12:51:28] Bob: Sounds relaxing!
+[9/6/25, 13:58:02] Charlie: Will do, thanks!
+[10/6/25, 10:17:36] Diana: Yeah, you definitely should.
+[10/6/25, 11:28:08] Diana: That sounds awesome. I've always wanted to go there.
+[10/6/25, 12:01:14] Diana: What are you up to this weekend?
+[10/6/25, 12:56:11] Bob: Probably just relaxing. Maybe some hiking.
+[10/6/25, 13:23:36] Alice: Not yet, working on it tonight.
+[10/6/25, 14:32:38] Bob: Morning everyone!
+[11/6/25, 12:16:37] Alice: Yeah, you definitely should.
+[11/6/25, 12:44:54] Charlie: Absolutely, binge-worthy!
+[11/6/25, 13:21:13] Charlie: Cool! Enjoy it.
+[11/6/25, 13:59:45] Diana: Not yet, is it good?
+[11/6/25, 15:18:54] Diana: Morning everyone!
+[12/6/25, 10:04:40] Diana: Not yet, working on it tonight.
+[12/6/25, 10:17:28] Diana: Will do, thanks!
+[12/6/25, 10:37:12] Bob: Good night!
+[12/6/25, 11:47:41] Charlie: What are you up to this weekend?
+[12/6/25, 11:58:40] Bob: Right, thanks for the reminder!
+[13/6/25, 09:54:40] Bob: That sounds awesome. I've always wanted to go there.
+[13/6/25, 10:16:33] Alice: Will do, thanks!
+[13/6/25, 11:21:31] Bob: I went to Japan. It was amazing!
+[13/6/25, 12:35:27] Bob: What are you up to this weekend?
+[13/6/25, 13:16:00] Alice: I'll check it out then.
+[13/6/25, 13:29:47] Bob: Absolutely, binge-worthy!
+[13/6/25, 14:21:46] Charlie: Any plans for the holidays?
+[13/6/25, 14:34:48] Charlie: Don't forget the meeting tomorrow.
+[14/6/25, 10:29:46] Charlie: Not yet, is it good?
+[14/6/25, 11:45:06] Alice: Right, thanks for the reminder!
+[14/6/25, 12:09:10] Bob: Did you finish the project?
+[14/6/25, 13:23:16] Diana: Let me know if you need help.
+[14/6/25, 14:06:03] Alice: Let me know if you need help.
+[14/6/25, 15:35:36] Alice: Let's catch up later.
+[14/6/25, 16:21:34] Bob: Not yet, working on it tonight.
+[15/6/25, 08:52:07] Bob: Right, thanks for the reminder!
+[15/6/25, 09:13:50] Diana: Don't forget the meeting tomorrow.
+[15/6/25, 10:22:49] Bob: Did you finish the project?
+[16/6/25, 10:07:47] Diana: Good night!
+[16/6/25, 10:18:42] Charlie: Sure, see you soon.
+[16/6/25, 10:37:10] Bob: Not yet, working on it tonight.
+[16/6/25, 10:50:13] Alice: Did you finish the project?
+[16/6/25, 11:59:17] Alice: Let me know if you need help.
+[16/6/25, 12:51:51] Alice: Bye!
+[16/6/25, 13:15:03] Diana: Don't forget the meeting tomorrow.
+[17/6/25, 11:51:25] Bob: Good night!
+[17/6/25, 12:37:26] Alice: Right, thanks for the reminder!
+[17/6/25, 13:37:21] Bob: Let's catch up later.
+[17/6/25, 14:22:00] Diana: What are you up to this weekend?
+[18/6/25, 09:54:35] Bob: Any plans for the holidays?
+[18/6/25, 09:59:20] Charlie: Sounds relaxing!
+[18/6/25, 10:27:51] Alice: What are you up to this weekend?
+[18/6/25, 11:23:42] Charlie: Let me know if you need help.
+[18/6/25, 12:25:28] Charlie: Yeah, you definitely should.
+[18/6/25, 13:03:24] Charlie: Hey, how are you?
+[19/6/25, 10:48:33] Alice: Morning everyone!
+[19/6/25, 11:18:37] Charlie: Probably just relaxing. Maybe some hiking.
+[19/6/25, 11:27:36] Alice: Don't forget the meeting tomorrow.
+[19/6/25, 11:42:57] Diana: I'm doing great! Just got back from a trip.
+[19/6/25, 12:43:03] Bob: Thanks!
+[19/6/25, 13:54:16] Diana: Will do, thanks!
+[20/6/25, 09:22:21] Bob: Going to visit family. You?
+[20/6/25, 09:31:22] Bob: Not yet, is it good?
+[20/6/25, 10:40:58] Charlie: Have you watched the new series on Netflix?
+[20/6/25, 10:58:48] Charlie: I went to Japan. It was amazing!
+[20/6/25, 11:20:54] Bob: Yeah, you definitely should.
+[21/6/25, 11:11:40] Diana: Will do, thanks!
+[21/6/25, 11:42:43] Charlie: Good night!
+[21/6/25, 12:48:51] Bob: Sounds relaxing!
+[21/6/25, 13:57:12] Diana: Staying home, just taking it easy.
+[22/6/25, 08:35:49] Alice: Staying home, just taking it easy.
+[22/6/25, 09:24:09] Charlie: That sounds awesome. I've always wanted to go there.
+[22/6/25, 10:12:52] Alice: Not yet, is it good?
+[22/6/25, 11:11:55] Charlie: What are you up to this weekend?
+[22/6/25, 11:36:56] Diana: What are you up to this weekend?
+[22/6/25, 11:44:23] Diana: Let me know if you need help.
+[23/6/25, 10:27:36] Bob: Going to visit family. You?
+[23/6/25, 11:29:40] Alice: Cool! Enjoy it.
+[23/6/25, 11:33:05] Alice: Will do, thanks!
+[23/6/25, 12:58:20] Alice: Nice! Where did you go?
+[23/6/25, 13:46:34] Diana: Staying home, just taking it easy.
+[23/6/25, 14:29:41] Bob: I went to Japan. It was amazing!
+[24/6/25, 11:10:19] Alice: Right, thanks for the reminder!
+[24/6/25, 12:10:15] Alice: Sure, see you soon.
+[24/6/25, 13:13:17] Bob: I'll check it out then.
+[24/6/25, 13:19:26] Diana: Probably just relaxing. Maybe some hiking.
+[24/6/25, 13:34:15] Charlie: Not yet, working on it tonight.
+[24/6/25, 14:37:13] Alice: Sure, see you soon.
+[25/6/25, 10:40:31] Diana: Going to visit family. You?
+[25/6/25, 12:08:46] Diana: Morning everyone!
+[25/6/25, 12:47:02] Charlie: Bye!
+[26/6/25, 10:47:48] Charlie: Not yet, working on it tonight.
+[26/6/25, 11:47:02] Diana: I'll check it out then.
+[27/6/25, 08:34:36] Charlie: Let me know if you need help.
+[27/6/25, 09:30:18] Bob: Any plans for the holidays?
+[27/6/25, 09:38:02] Diana: Absolutely, binge-worthy!
+[27/6/25, 09:47:01] Alice: Thanks!
+[27/6/25, 10:10:23] Alice: Bye!
+[27/6/25, 10:54:05] Charlie: Sounds relaxing!
+[27/6/25, 11:23:05] Charlie: Not yet, working on it tonight.
+[28/6/25, 11:44:45] Charlie: Sure, see you soon.
+[28/6/25, 12:32:22] Charlie: Nice! Where did you go?
+[28/6/25, 12:56:49] Diana: Good night!
+[28/6/25, 13:01:30] Diana: Sure, see you soon.
+[28/6/25, 14:15:18] Alice: Absolutely, binge-worthy!
+[28/6/25, 15:14:24] Alice: Any plans for the holidays?
+[28/6/25, 16:25:07] Charlie: Cool! Enjoy it.
+[29/6/25, 11:10:11] Diana: Hey, how are you?
+[29/6/25, 11:21:18] Alice: Good night!
+[29/6/25, 11:36:10] Charlie: Probably just relaxing. Maybe some hiking.
+[29/6/25, 12:21:29] Diana: Absolutely, binge-worthy!
+[29/6/25, 13:02:49] Charlie: Let me know if you need help.
+[29/6/25, 13:26:01] Bob: Bye!
